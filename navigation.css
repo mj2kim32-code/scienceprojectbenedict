@@ -1,0 +1,19 @@
+ul{
+    
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+    background-image:url('https://img.freepik.com/free-vector/gold-metal-background_78370-154.jpg?semt=ais_hybrid&w=740&q=80');
+    border:5px solid #FFFFFF;
+    color:black;
+}
+li{
+    float:left;
+border-bottom-color:black;}
+li a{display:block;
+padding: 14px 16px;
+text-decoration:none;}
+li a:hover {color:black;}
+
+.active{color:black;}
